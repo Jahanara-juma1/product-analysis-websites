@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+      "comment": "WL318,Navy Blue School Backpack for class 1-5 Kids",
+      "name": "Kemp Wilkins",
+      "rating": 3.5
+    },
+    {
+        "id": 2, 
+      "comment": "Children Kids Safety Baby Belt for Motorcycle",
+      "name": "Rose Padilla",
+      "rating":4.5
+    },
+    {
+        "id": 3,
+      "comment": "Baby Doll Cartoon Backpack Velvet Bag",
+      "name": "Vicky Avila",
+      "rating": 4.4
+    },
+    {
+        "id": 4, 
+      "comment": "Mini School Bag Men and Woman",
+      "name": "Polly Melton",
+      "rating": 3.7
+    },
+    {
+        "id": 5, 
+      "comment": "Mickey Mouse Kids Bag pack",
+      "name": "Cole Morse",
+      "rating": 5.8
+    },
+    {
+        "id": 6,
+      "comment": "Colorful Mini Backpack for Children",
+      "name": "Vicki Evans",
+      "rating": 2.4
+    }
+  ]
